@@ -1,0 +1,160 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-transform: capitalize;
+}
+
+body{
+text-align: center;
+font-family: 'Merriweather', serif;
+
+}
+
+
+
+.section1{
+
+    background-color:#EAF6F6;
+    position: relative;
+    
+}
+
+.top_cloud{
+position: absolute;
+right: 200px;
+margin-top: 40px;
+}
+.pro_Des h1{
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+
+.bottom_cloud{
+
+    position: absolute;
+    left: 300px;
+}
+
+.section1 h1{
+
+ font-family: 'Sacramento', cursive ;
+ color: #66BFBF;
+ font-size: 80px;
+}
+
+.section1 h2{
+font-family: 'Montserrat', sans-serif;
+color: #66BFBF;
+font-size: 30px;
+}
+
+.section1 h2 span{
+    text-decoration: underline;
+}
+
+.mid_section{
+    margin: 40px;
+}
+
+.about{
+
+    width: 40%;
+    margin: 20px auto;
+    line-height: 2;
+    text-align: left;
+    padding: 10px 30px;
+}
+h2{
+    color: #66BFBF;
+    margin-top: 20px;
+}
+
+h3{
+    color: #66BFBF;
+    margin-top: 20px;
+}
+
+hr{
+    border-style: none;
+    border-top: 8px dotted ;
+    border-color: #9ecfcf;
+    width: 10%;
+    margin: auto;
+}
+.skill1_des{
+    
+    margin:  auto;
+    text-align: left;
+    line-height: 2;
+    padding-left: 60px;
+}
+
+.skill1{
+
+    display: flex;
+    width: 50%;
+    margin: 50px auto;
+
+}
+
+.skill2{
+
+    display: flex;
+    width: 50%;
+    margin: 50px auto;
+
+}
+
+.skill2_des{
+    margin:  auto;
+    text-align: left;
+    line-height: 2;
+    padding-right: 60px;
+}
+p{
+    color: #40514E;
+
+}
+
+.contact{
+    line-height: 2;
+    padding: 30px;
+}
+
+.btn{
+    height: 60px;
+    width: 239px;
+    background: rgb(75, 189, 224);
+    color: white;
+    font-size: 28px;
+    border: none;
+   
+
+}
+btn:hover{
+    background-color: #10d610;
+}
+
+.footer{
+    background-color: #6deeee;
+    margin-top: 60px;
+   height: 160px;
+    
+}
+
+.table{
+
+    font-size: 25px;
+   margin: auto;
+   padding-top: 30px;
+   border-spacing: 30px;
+   color: #20b9be;
+   text-decoration: none;
+}
+
+
+.table a{
+
+    color: #20b9be;
+}
